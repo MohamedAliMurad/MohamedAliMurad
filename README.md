@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **React, JS, Node.js, MongoDB,**
+- 🌱 I’m currently learning **JS, React, React Native, Node.js, MongoDB,**
 
 - 📫 How to reach me **mohamedalirazen@gmail.com**
 
