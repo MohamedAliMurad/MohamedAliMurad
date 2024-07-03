@@ -20,6 +20,8 @@
 - 🔭 Currently working as a *Freelancer*
 - 🌱 Learning *Node.js, Express.js, MongoDB*
 - 📫 Reach me at *mohamedalirazen@gmail.com*
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I once built a fully functional game in less than 48 hours during a hackathon!
 
 <h3>Connect with me:</h3>
 <p>
@@ -39,6 +41,21 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
+
+## Skills
+
+### Front End Development
+- *Languages*: JavaScript, TypeScript, HTML, CSS
+- *Libraries/Frameworks*: React.js, Redux, React Router
+- *Mobile Development*: React Native, Expo
+- *Styling*: CSS3, SASS, Styled-Components, Material-UI, Tailwind CSS
+- *Tools*: Git, Webpack, Babel, NPM, Yarn
+
+### Other Skills
+- *Testing*: Jest, Enzyme, React Testing Library
+- *Version Control*: Git, GitHub
+- *CI/CD*: GitHub Actions, Travis CI
+- *Project Management*: Agile, Scrum, Jira
 
 <h3>Languages and Tools:</h3>
 <p>
