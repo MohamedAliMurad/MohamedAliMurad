@@ -17,11 +17,11 @@
   </a>
 </p>
 
-- 🔭 Currently working as a *Freelancer*
-- 🌱 Learning *Node.js, Express.js, MongoDB*
-- 📫 Reach me at *mohamedalirazen@gmail.com*
-- 😄 Pronouns: *he/him*
-- ⚡ Fun fact:* I once built a fully functional game in less than 48 hours during a hackathon!*
+- 🔭 I’m currently working as a **Freelancer**
+- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
+- 📫 How to reach me **mohamedalirazen@gmail.com**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: **I built a fully functional game in less than 48 hours during a hackathon!**
 
 <h3>Connect with me:</h3>
 <p>
@@ -42,9 +42,10 @@
   </a>
 </p>
 
-##Skills
-##Front End Development
-###Languages:
+<h2>Skills</h2>
+
+<h3>Front End Development</h3>
+<h4>Languages:</h4>
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -59,7 +60,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
 </p>
-###Libraries/Frameworks:
+
+<h4>Libraries/Frameworks:</h4>
 <p>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -68,7 +70,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
 </p>
-###Mobile Development:
+
+<h4>Mobile Development:</h4>
 <p>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
@@ -77,7 +80,8 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/expo.png" alt="Expo" width="40" height="40"/>
   </a>
 </p>
-###Styling:
+
+<h4>Styling:</h4>
 <p>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -95,7 +99,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 </p>
-###Tools:
+
+<h4>Tools:</h4>
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -113,8 +118,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn" width="40" height="40"/>
   </a>
 </p>
-##Other Skills
-###Testing:
+
+<h3>Other Skills</h3>
+
+<h4>Testing:</h4>
 <p>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
@@ -124,9 +131,10 @@
   </a>
   <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/testing-library/react-testing-library/master/img/logo.png" alt="React Testing Library" width="40" height="40"/>
-  </a>
+</a>
+
 </p>
-###Version Control:
+<h4>Version Control:</h4>
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -135,7 +143,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
-###CI/CD:
+<h4>CI/CD:</h4>
 <p>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="40" height="40"/>
@@ -144,7 +152,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="Travis CI" width="40" height="40"/>
   </a>
 </p>
-###Project Management:
+<h4>Project Management:</h4>
 <p>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/342876?s=200&v=4" alt="Jira" width="40" height="40"/>
@@ -156,15 +164,12 @@
     <img src="https://avatars.githubusercontent.com/u/818859?s=200&v=4" alt="Agile" width="40" height="40"/>
   </a>
 </p>
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedalimurad&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedalimurad&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalimurad" alt="GitHub Streak" />
 </p>
