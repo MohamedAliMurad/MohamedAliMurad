@@ -18,7 +18,7 @@
 </p>
 
 - 🔭 Currently working as a **Freelancer**
-- 🌱 Learning **JavaScript, React, React Native, Node.js, Express.js, MongoDB**
+- 🌱 Learning **Node.js, Express.js, MongoDB**
 - 📫 Reach me at **mohamedalirazen@gmail.com**
 
 <h3>Connect with me:</h3>
