@@ -1,69 +1,105 @@
----
+<h1 align="center">Hi 👋, I'm Mohamed Ali Murad</h1>
+<h3 align="center">A Passionate Frontend Developer from Egypt</h3>
 
-# Hi there, I'm **Mohamed Ali Murad**! 👋
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohamedalimurad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-![Profile Banner](URL_TO_YOUR_BANNER_IMAGE)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mohamedalimurad" alt="GitHub Trophies" />
+  </a>
+</p>
 
-## About Me
+<p align="left">
+  <a href="https://twitter.com/mohamed30937180" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/mohamed30937180?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
 
-I am a passionate and experienced Front End Developer specializing in **React.js** and **React Native (Expo)**. I thrive in creating responsive, user-friendly, and visually appealing web and mobile applications. With a strong foundation in JavaScript and modern development tools, I aim to deliver high-quality code and innovative solutions.
+- 🔭 Currently working as a *Freelancer*
+- 🌱 Learning *Node.js, Express.js, MongoDB*
+- 📫 Reach me at *mohamedalirazen@gmail.com*
 
-- 🔭 I’m currently working on: [Doctor App]
-- 🌱 I’m currently learning: [Learning Focus, e.g., TypeScript, Next.js]
-- 👯 I’m looking to collaborate on: [Type of Projects or Technologies]
-- 💬 Ask me about: React, React Native, JavaScript, Front End Development
-- 📫 How to reach me: [mohamedalirazen@gmail.com]
-😄 Pronouns: he/him
-⚡ Fun fact: I once built a fully functional game in less than 48 hours during a hackathon!
+<h3>Connect with me:</h3>
+<p>
+  <a href="https://twitter.com/mohamed30937180" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-ali-murad/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/2bumur7d" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/mohamed9545ali" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/mohamedali870" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
 
-## Skills
+<h3>Languages and Tools:</h3>
+<p>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+</p>
 
-### Front End Development
-- **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Libraries/Frameworks**: React.js, Redux, React Router
-- **Mobile Development**: React Native, Expo
-- **Styling**: CSS3, SASS, Styled-Components, Material-UI, Tailwind CSS
-- **Tools**: Git, Webpack, Babel, NPM, Yarn
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedalimurad&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-### Other Skills
-- **Testing**: Jest, Enzyme, React Testing Library
-- **Version Control**: Git, GitHub
-- **CI/CD**: GitHub Actions, Travis CI
-- **Project Management**: Agile, Scrum, Jira
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedalimurad&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-## Projects
-
-### [Resto]
-**Description**: Resto App is a modern, responsive restaurant application built with React and Vite. The app provides a seamless and engaging experience for users to explore the restaurant's offerings, read reviews, place orders, and manage their profiles. It includes various pages such as Home, About, Dishes, Review, Order, Login, Signup, and more, utilizing react-router-dom for routing and context API for managing user authentication state.  
-**Technologies Used**: React, Vite, React Router, Context API, [Material UI, Bootstrap]  
-**Live Demo**: [[Go To Resto](https://resto-git-main-mohamed-ali-murads-projects.vercel.app/)]  
-**GitHub Repo**: [[Link to GitHub Repository](https://github.com/MohamedAliMurad/Resto)]
-
-### [All-In-One-Academic-Hub]
-**Description**: As a student, I have personally experienced the challenges of managing my academic life effectively. Keeping track of student attendance, assignments, exams, and extracurricular activities can be overwhelming, making it difficult to stay organized and on top of everything. Additionally, I have witnessed the challenges faced by educators in tracking attendance and communicating with students.
-
-Our motivation for developing this platform stems from a desire to address these challenges and provide a comprehensive solution that benefits both students and educators. We believe that technology can play a transformative role in enhancing the teaching and learning experience. We are passionate about creating innovative solutions that empower students and educators to succeed.
-**Technologies Used**: React Native, Expo, [Native Base]  
-**GitHub Repo**: [[Link to GitHub Repository](https://github.com/MohamedAliMurad/All-In-One-Academic-Hub)]
-
-### [Noxe]
-**Description**: The Movie App is a responsive web application designed to provide users with detailed information about movies. Users can search for movies, view details such as ratings, cast, and synopsis, and manage their favorite movies list. The app offers a sleek and user-friendly interface optimized for both desktop and mobile devices.
-**Technologies Used**: React, Redux, [Material UI, Bootstrap] 
-**Live Demo**: [[Go To Noxe](https://noxe-one.vercel.app/)]  
-**GitHub Repo**: [[Link to GitHub Repository](https://github.com/MohamedAliMurad/Noxe)]
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## Contact Me
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-ali-murad/)
-- Twitter: [Your Twitter Profile](https://x.com/Mohamed30937180?t=nkQ2lfxYR0neAqxgNa_ZdA&s=09)
-- Email: [Your Email Address](mailto:mohamedalirazen@gmail.com)
-
----
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalimurad" alt="GitHub Streak" />
+</p>
