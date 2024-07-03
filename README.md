@@ -1,6 +1,6 @@
 ---
 
-# Hi there, I'm [Mohamed Ali Murad]! 👋
+# Hi there, I'm **Mohamed Ali Murad**! 👋
 
 ![Profile Banner](URL_TO_YOUR_BANNER_IMAGE)
 
