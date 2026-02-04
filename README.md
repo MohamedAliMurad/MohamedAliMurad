@@ -1,175 +1,51 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali Murad</h1>
-<h3 align="center">A Passionate Frontend Developer from Egypt</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohamedalimurad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <strong>Passionate Frontend Engineer & Aspiring Fullstack Developer</strong><br>
+  Crafting high-performance web and mobile experiences from Egypt.
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohamedalimurad" alt="GitHub Trophies" />
-  </a>
+<p align="center">
+  <a href="https://linkedin.com/in/mohamed-ali-murad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohamedalirazen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/mohamed30937180"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/mohamed30937180" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mohamed30937180?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
+---
+
+### 🚀 About Me
+
+- 🔭 **Current Focus:** Delivering high-quality solutions as a **Freelance Frontend Developer**.
+- 🌱 **Learning Journey:** Expanding into the backend with **Node.js, Express.js, and MongoDB** (MERN Stack).
+- ⚡ **Fun Fact:** I once built a fully functional game in less than **48 hours** during a hackathon!
+- 😄 **Pronouns:** He/Him
+
+---
+
+### 🛠️ Technical Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
+| **Frameworks** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white) |
+| **Styling** | ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white) ![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white) |
+| **Testing/DevOps** | ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) |
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedalimurad&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed's Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalimurad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-- 🔭 I’m currently working as a **Freelancer**
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
-- 📫 How to reach me **mohamedalirazen@gmail.com**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I built a fully functional game in less than 48 hours during a hackathon!**
-
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://twitter.com/mohamed30937180" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-ali-murad/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/2bumur7d" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mohamed9545ali" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/mohamedali870" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalimurad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<h2>Skills</h2>
+---
 
-<h3>Front End Development</h3>
-<h4>Languages:</h4>
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-</p>
-
-<h4>Libraries/Frameworks:</h4>
-<p>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
-</p>
-
-<h4>Mobile Development:</h4>
-<p>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/expo.png" alt="Expo" width="40" height="40"/>
-  </a>
-</p>
-
-<h4>Styling:</h4>
-<p>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  </a>
-  <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled-Components" width="40" height="40"/>
-  </a>
-  <a href="https://material-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-</p>
-
-<h4>Tools:</h4>
-<p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
-  </a>
-  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn" width="40" height="40"/>
-  </a>
-</p>
-
-<h3>Other Skills</h3>
-
-<h4>Testing:</h4>
-<p>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-  </a>
-  <a href="https://airbnb.io/enzyme/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/25057954?s=200&v=4" alt="Enzyme" width="40" height="40"/>
-  </a>
-  <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/testing-library/react-testing-library/master/img/logo.png" alt="React Testing Library" width="40" height="40"/>
-</a>
-
-</p>
-<h4>Version Control:</h4>
-<p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-</p>
-<h4>CI/CD:</h4>
-<p>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="40" height="40"/>
-  </a>
-  <a href="https://travis-ci.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="Travis CI" width="40" height="40"/>
-  </a>
-</p>
-<h4>Project Management:</h4>
-<p>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/342876?s=200&v=4" alt="Jira" width="40" height="40"/>
-  </a>
-  <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/6958637?s=200&v=4" alt="Scrum" width="40" height="40"/>
-  </a>
-  <a href="https://www.agilealliance.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/818859?s=200&v=4" alt="Agile" width="40" height="40"/>
-  </a>
-</p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedalimurad&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedalimurad&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalimurad" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedalimurad&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
 </p>
